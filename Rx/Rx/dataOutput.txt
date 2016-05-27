@@ -1,0 +1,5 @@
+average: 3.91085
+variance: 3255.29
+maxValue: 0.547076
+minValue: -0.345208
+sum: 808.906

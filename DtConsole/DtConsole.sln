@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DtConsole", "DtConsole.vcxproj", "{E7201C6E-EFA1-41E9-7BE1-D005FCA3C734}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rx", "..\Rx\Rx\Rx.vcxproj", "{68AD82DE-85BB-44C6-A8AA-036EB617DE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7201C6E-EFA1-41E9-7BE1-D005FCA3C734}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7201C6E-EFA1-41E9-7BE1-D005FCA3C734}.Debug|Win32.Build.0 = Debug|Win32
+		{E7201C6E-EFA1-41E9-7BE1-D005FCA3C734}.Release|Win32.ActiveCfg = Release|Win32
+		{E7201C6E-EFA1-41E9-7BE1-D005FCA3C734}.Release|Win32.Build.0 = Release|Win32
+		{68AD82DE-85BB-44C6-A8AA-036EB617DE54}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68AD82DE-85BB-44C6-A8AA-036EB617DE54}.Debug|Win32.Build.0 = Debug|Win32
+		{68AD82DE-85BB-44C6-A8AA-036EB617DE54}.Release|Win32.ActiveCfg = Release|Win32
+		{68AD82DE-85BB-44C6-A8AA-036EB617DE54}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
