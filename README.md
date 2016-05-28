@@ -32,8 +32,8 @@ and both programs terminate.
 	[(GitHub)](https://github.com/belachewhm)
 	[(LinkedIn)](https://www.linkedin.com/in/belachew-haile-mariam-02259165)
 - Kevin Marnell
-	[(GitHub)](www.github.com)
+	[(GitHub)](https://github.com/)
 	[(LinkedIn)](https://www.linkedin.com/in/kevin-marnell-644925a4)
 - Picard Folefack
-	[(GitHub)](www.github.com)
+	[(GitHub)](https://github.com/)
 	[(LinkedIn)](https://www.linkedin.com/in/picard-folefack-79585b3a/en)
