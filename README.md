@@ -26,3 +26,14 @@ of values from the processed data to the client. When the input channel 0 is tog
 the server program will pause and resume the data acquisition process as necessary. 
 When the user types “STOP” on the client program, a stop command is sent to the server 
 and both programs terminate.
+
+## Contributors
+- Belachew Haile-Mariam
+	[(GitHub)](www.github.com)
+	[(LinkedIn)](www.linkedin.com)
+- Kevin Marnell
+	[(GitHub)](www.github.com)
+	[(LinkedIn)](www.linkedin.com)
+- Picard Folefack
+	[(GitHub)](www.github.com)
+	[(LinkedIn)](www.linkedin.com)
