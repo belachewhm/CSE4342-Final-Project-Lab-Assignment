@@ -29,11 +29,11 @@ and both programs terminate.
 
 ## Contributors
 - Belachew Haile-Mariam
-	[(GitHub)](www.github.com)
-	[(LinkedIn)](www.linkedin.com)
+	[(GitHub)](https://github.com/belachewhm)
+	[(LinkedIn)](https://www.linkedin.com/in/belachew-haile-mariam-02259165)
 - Kevin Marnell
 	[(GitHub)](www.github.com)
-	[(LinkedIn)](www.linkedin.com)
+	[(LinkedIn)](https://www.linkedin.com/in/kevin-marnell-644925a4)
 - Picard Folefack
 	[(GitHub)](www.github.com)
-	[(LinkedIn)](www.linkedin.com)
+	[(LinkedIn)](https://www.linkedin.com/in/picard-folefack-79585b3a/en)
